@@ -63,6 +63,6 @@ Meu objetivo é unir minha visão de gestão, processos e conformidade com a seg
 ## Contato
 
 📧 brunagrandesr@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/brunagrandes)
+💼 [LinkedIn](https://www.linkedin.com/in/bruna-grandes)
 
 📂 Confira meus projetos aqui no GitHub!
